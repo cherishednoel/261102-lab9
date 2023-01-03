@@ -1,3 +1,2 @@
-# lab9_2565_2
-# NAME: PANIDA SUTHAPAKTI
+# NAME: Panida Suthapakti
 # STUDENT ID: 650610790
